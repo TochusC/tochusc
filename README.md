@@ -14,7 +14,7 @@ $ whoami?
 - 👯 I’m looking to collaborate on Studying And Learning
 - 🤔 I’m looking for help with 学习建议、聊天交流
 - 💬 Ask me about ANYTHING
-- 📫 How to reach me: tochus@163.com
+- 📫 How to reach me: tochus@163.com(email);205329624(QQ)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I would go running for relief, and I almost run every night.
 -->
