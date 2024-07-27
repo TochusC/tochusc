@@ -19,8 +19,7 @@ Mentally stable ✨
 - 🔭 Currently preparing for Recommended Exemption Graduate Studies
 - 🌱 Devoting myself to learning everything about Computer Science (mainly focusing on: CSAPP, 408)
 - 💬 I’m always ready to answer any questions
-- 📫 How to contact me❓:
-  - tochus@163.com (email); 205329624 (QQ); 
-  - 15753183270 (WeChat, same number); tochusc.github.io (homepage)
+- 📫 How to contact me: tochus@163.com (email); 205329624 (QQ); 15753183270 (WeChat);
+- 🔗 Welcome to visit: [Personal Homepage](https://tochusc.github.io/); [Bilibili Homepage](https://space.bilibili.com/10478211);
   
 -⚡ Background: In just half a year, I went from uncertainty about the exemption quota to scoring near full marks in multiple courses, improving my rank by nearly 10 places (Mobile Internet Practice: 98, Compilation Principle Course Project: 99, Computer Operating Systems: 97…), and then clinching the national first prize in July. I’ve turned the tide; now with a confirmed exemption quota, I’m giving my all for the future.
