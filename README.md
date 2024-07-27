@@ -3,7 +3,7 @@
 ```bash
 $ whoami? 
 ```
-[[简体中文]](README.md) | [[English Version]](./EN/README.md)
+[[简体中文]](README.md) | [[English Version]](./Lan/EN/README.md)
 
 即将毕业的大三下无rank，~~无竞赛~~（国一✔️），无paper的末2边缘人🥹。
 
