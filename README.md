@@ -5,20 +5,13 @@ $ whoami?
 ```
 [[简体中文]](README.md) | [[English Version]](./Lan/EN/README.md)
 
-即将毕业的大三下无rank，~~无竞赛~~（国一✔️），无paper的末2边缘人🥹。
-
-~~考保二相叠加态⚡~~（确定推免🌟） 
-
-正全力争取更好的研究生offer🎓。
-
-精神状态稳定✨
+状态稳定✨
 
 - 🔭 现在正在准备[推荐免试研究生](https://baike.baidu.com/item/%E6%8E%A8%E8%8D%90%E5%85%8D%E8%AF%95%E7%A0%94%E7%A9%B6%E7%94%9F/7548691?fr=ge_ala)
-- 🌱 在努力学习 "关于[计算机科学](https://zh.wikipedia.org/zh-cn/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)的一切（目前主要是：CSAPP，408）"
-- 💬 任何事情我都会~~有问必答~~
+- 🌱 在努力学习 "[DNS安全](https://en.wikipedia.org/wiki/Domain_Name_System)"
+
 - 📫 如何联系❓：
   - tochus@163.com(电子邮箱) - 205329624(QQ) - 15753183270(微信)
 - 🔗 欢迎访问：
   - [个人主页](https://tochusc.github.io/) - [BiliBili主页](https://space.bilibili.com/10478211)
-    
-- ⚡ 小背景: 在半年时间内，从无法确定推免名额，到连续多门课程接近满分，成绩上升近10名，（移动互联网实践：98，编译原理课设：99，计算机操作系统：97...），再到7月份夺得国家一等奖头魁，力挽狂澜；现在确定推免名额，向未来全力以赴。
+  
