@@ -15,14 +15,12 @@ $ whoami❓
 </div>
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p align="center">
-<img src="https://img.shields.io/badge/-个人主页-8080ff?style=flat-square&logo=github&logoColor=white&link=https://tochusc.github.io/" />
-<img src="https://img.shields.io/badge/-Gmail:4spera-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tochsus@163.com" />
-<img src="https://img.shields.io/badge/-4stra-grey?style=flat-square&logo=x&logoColor=white&link=https://x.com/xu_zu_yao" />
-<img src="https://img.shields.io/badge/-小鱼小鱼快快游02-blue?style=flat-square&logo=bilibili&logoColor=white&link=https://space.bilibili.com/10478211" />
+<div align="center">
 
-
-<div align = "center">
+[<img src="https://img.shields.io/badge/-个人主页-8080ff?style=flat-square&logo=github&logoColor=white&link=https://tochusc.github.io/" />](https://tochusc.github.io/)
+[<img src="https://img.shields.io/badge/-Email:4spera-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tochsus@163.com" />](mailto:tochsus@163.com)
+[<img src="https://img.shields.io/badge/-4stra-grey?style=flat-square&logo=x&logoColor=white&link=https://x.com/xu_zu_yao" />](https://x.com/xu_zu_yao)
+[<img src="https://img.shields.io/badge/-小鱼小鱼快快游02-blue?style=flat-square&logo=bilibili&logoColor=white&link=https://space.bilibili.com/10478211" />](https://space.bilibili.com/10478211)
   
    **生活不止眼前的代码，还有诗和南门外的海与远方**🌈
 

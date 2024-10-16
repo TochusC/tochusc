@@ -13,13 +13,13 @@ Early to rise, late to bed, maintaining a stable state✨
 </div>
 
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p align="center">
-<img src="https://img.shields.io/badge/-Personal Homepage-8080ff?style=flat-square&logo=github&logoColor=white&link=https://tochusc.github.io/" />
-<img src="https://img.shields.io/badge/-Gmail:4spera-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tochsus@163.com" />
-<img src="https://img.shields.io/badge/-4stra-grey?style=flat-square&logo=x&logoColor=white&link=https://x.com/xu_zu_yao" />
-<img src="https://img.shields.io/badge/-Little Fish, Swim Fast 02-blue?style=flat-square&logo=bilibili&logoColor=white&link=https://space.bilibili.com/10478211" />
 
 <div align="center">
+
+[<img src="https://img.shields.io/badge/-Personal%20Page-8080ff?style=flat-square&logo=github&logoColor=white&link=https://tochusc.github.io/" />](https://tochusc.github.io/)
+[<img src="https://img.shields.io/badge/-Email:4spera-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tochsus@163.com" />](mailto:tochsus@163.com)
+[<img src="https://img.shields.io/badge/-4stra-grey?style=flat-square&logo=x&logoColor=white&link=https://x.com/xu_zu_yao" />](https://x.com/xu_zu_yao)
+[<img src="https://img.shields.io/badge/-小鱼小鱼快快游02-blue?style=flat-square&logo=bilibili&logoColor=white&link=https://space.bilibili.com/10478211" />](https://space.bilibili.com/10478211)
   
    **Life is not just about the code in front of you, but also the poetry and the sea beyond the southern gate**🌈
 
