@@ -35,9 +35,7 @@ $ whoami❓
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TochusC&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TochusC&show_icons=true&locale=en&layout=compact&line_height=0"/>
 </p> -->
-
----
-
+<h2></h2>
 <div align="center">
 我为我喜爱的东西大费周章,所以我才能快乐如斯——海明威
 
