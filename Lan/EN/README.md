@@ -1,25 +1,43 @@
-### English Version😉
-
-### Hi there 👋
+### Hello 👋
 
 ```bash
-$ whoami?
+$ whoami❓
 ```
+<div align="center">
 
-[[简体中文]](../../README.md)  | [[English Version]](./README.md)
+[[Simplified Chinese]](README.md) | [[English Version]](./Lan/EN/README.md)
 
-As a junior about to graduate with no rank, ~~no competitions~~ (national first place ✔️), no publications, I’m on the edge of the top 20% 🥹.
+Early to rise, late to bed, maintaining a stable state✨
 
-~~In a superposition state of striving for both examination and recommendation for exemption⚡~~ (confirmed for exemption 🌟).
+🌱 Currently learning "[DNS Security](https://en.wikipedia.org/wiki/Domain_Name_System)"
+</div>
 
-I’m now fully committed to securing a better graduate offer 🎓.
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
+<img src="https://img.shields.io/badge/-Personal Homepage-8080ff?style=flat-square&logo=github&logoColor=white&link=https://tochusc.github.io/" />
+<img src="https://img.shields.io/badge/-Gmail:4spera-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tochsus@163.com" />
+<img src="https://img.shields.io/badge/-4stra-grey?style=flat-square&logo=x&logoColor=white&link=https://x.com/xu_zu_yao" />
+<img src="https://img.shields.io/badge/-Little Fish, Swim Fast 02-blue?style=flat-square&logo=bilibili&logoColor=white&link=https://space.bilibili.com/10478211" />
 
-Mentally stable ✨
-
-- 🔭 Currently preparing for Recommended Exemption Graduate Studies
-- 🌱 Devoting myself to learning everything about Computer Science (mainly focusing on: CSAPP, 408)
-- 💬 I’m always ready to answer any questions
-- 📫 How to contact me: tochus@163.com (email); 205329624 (QQ); 15753183270 (WeChat);
-- 🔗 Welcome to visit: [Personal Homepage](https://tochusc.github.io/); [Bilibili Homepage](https://space.bilibili.com/10478211);
+<div align="center">
   
--⚡ Background: In just half a year, I went from uncertainty about the exemption quota to scoring near full marks in multiple courses, improving my rank by nearly 10 places (Mobile Internet Practice: 98, Compilation Principle Course Project: 99, Computer Operating Systems: 97…), and then clinching the national first prize in July. I’ve turned the tide; now with a confirmed exemption quota, I’m giving my all for the future.
+   **Life is not just about the code in front of you, but also the poetry and the sea beyond the southern gate**🌈
+
+  <img src="https://media.giphy.com/media/xqklsTVVXhPa/giphy.gif"/>
+</div> 
+
+<!-- 
+<h2 align="center">I work a lot here at the university <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TochusC&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TochusC&show_icons=true&locale=en&layout=compact&line_height=0"/>
+</p> -->
+
+---
+
+<div align="center">
+I go to great lengths for the things I love, and that's why I am so happy — Hemingway
+
+Per Aspera, Ad Astra🌟.
+</div>
