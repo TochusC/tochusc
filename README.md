@@ -1,20 +1,11 @@
-### 你好呀 👋 
-
-```bash
-$ whoami❓
-```
-<div align = "center">
 
 [[简体中文]](README.md) | [[English Version]](./Lan/EN/README.md)
 
 
-
-早八晚十，状态稳定✨
-
  🌱 在努力学习 "[DNS安全](https://en.wikipedia.org/wiki/Domain_Name_System)"
 </div>
 
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center">Reach me on </h2>
 <div align="center">
 
 [<img src="https://img.shields.io/badge/-个人主页-8080ff?style=flat-square&logo=github&logoColor=white&link=https://tochusc.github.io/" />](https://tochusc.github.io/)
