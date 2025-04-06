@@ -8,7 +8,6 @@
 
  <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TochusC&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TochusC&show_icons=true&locale=en&layout=compact&line_height=0"/>
  </p>
 
  <h2 align="center">Reach me on🌟</h2>
